@@ -7,7 +7,7 @@ I like so much sharing my knowledge in my field of expertise. | 🇧🇷 Eu gost
 
 More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer. | 🇧🇷 Mais de 10 anos trabalhando com esse negócio de Infraestrutura de TI. Sou Bacharel em Ciência da Computação (sim, 5 anos de graduação. vivo para contar). Atualmente, tô estudando para trabalhar com Engenharia de Dados, porque a gente não pode ficar parado
 
-💬 Ask me about Linux, IT operations, and open source solutions. | 🇧🇷 Pode chegar mais.. pergunte sobre Linux, Ops de operações e soluções open sources
+💬 Ask me about Linux, IT operations, and open source solutions. | 🇧🇷 Pode chegar mais.. pergunte sobre Linux, Ops de operações e soluções open sources. Ou qualquer coisa que acha que posso ajudar. Quem sobe primeiro, puxa o outro
 
 ## 📬 Get in touch | 🇧🇷 Meus contatos 
 
