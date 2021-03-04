@@ -5,11 +5,11 @@
 
 I like so much sharing my knowledge in my field of expertise. | 🇧🇷 Eu gosto muito de compartilhar meu conhecimento no meu campo de atuação.
 
-More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer.
+More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer. | 🇧🇷 Mais de 10 anos trabalhando com Infraestrutura de TI. Sou Bacharel em Ciência da Computação. Atualmente, tô estudando para trabalhar com Engenharia de Dados
 
-💬 Ask me about Linux, IT operations, and open source solutions.
+💬 Ask me about Linux, IT operations, and open source solutions. | 🇧🇷 Pode chegar mais.. pergunte sobre Linux, Ops de operações e soluções open sources
 
-## 📬 Get in touch
+## 📬 Get in touch | 🇧🇷 Meus contatos 
 
 - Web: [ricardoferreira.site](https://ricardoferreira.site)
 - LinkedIn: [linkedin.com/in/ricardo-ferreira-costa](https://linkedin.com/in/ricardo-ferreira-costa/)
@@ -19,11 +19,11 @@ More than ten years of expertise in Infrastructure IT. Bachelor's Computer Scien
 - Other Channels:
   - Udemy: [udemy.com/ricardo-ferreira-costa](https://www.udemy.com/user/ricardo-ferreira-costa-2)
 
-## My Projects
+## My Projects | 🇧🇷 Meus projetos
 
-You can find my ...
+You can find my ... | 🇧🇷 Quando eu descobrir o que eu tô fazendo, eu escrevo aqui
 
-## Github Stats
+## Github Stats | 🇧🇷 Estatística bonita do GitHub
 
 [![ricardoferreiracosta08's github stats](https://github-readme-stats.vercel.app/api?username=ricardoferreiracosta08&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ricardoferreiracosta08's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricardoferreiracosta08&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
