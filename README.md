@@ -1,9 +1,9 @@
 
 ![GitHub Profile View Counter](https://komarev.com/ghpvc/?username=ricardoferreiracosta08&style=flat-square)
 
-## Hi there 👋
+## Hi there | 🇧🇷 Opa, tranquilo? 👋
 
-I like so much sharing my knowledge in my field of expertise.
+I like so much sharing my knowledge in my field of expertise. | 🇧🇷 Eu gosto muito de compartilhar meu conhecimento no meu campo de atuação.
 
 More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer.
 
