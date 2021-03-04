@@ -18,6 +18,16 @@ More than ten years of expertise in Infrastructure IT. Bachelor's Computer Scien
 - Other Channels:
   - Udemy: [udemy.com/ricardo-ferreira-costa](https://www.udemy.com/user/ricardo-ferreira-costa-2)
 
+## My Hard Skills
+
+## My Soft Skills
+
+### Github Stats
+
+[![rafaelfl's github stats](https://github-readme-stats.vercel.app/api?username=ricardoferreiracosta08&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaelfl's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricardoferreiracosta08&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ricardoferreiracosta08/ricardoferreiracosta08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
