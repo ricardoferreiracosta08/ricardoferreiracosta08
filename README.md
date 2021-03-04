@@ -3,9 +3,9 @@
 
 ## Hi there | 🇧🇷 Opa, tranquilo? 👋
 
-I like so much sharing my knowledge in my field of expertise. | 🇧🇷 Eu gosto muito de compartilhar meu conhecimento no meu campo de atuação.
+I like so much sharing my knowledge in my field of expertise. | 🇧🇷 Eu gosto muito de compartilhar meu conhecimento. Quem ensina, aprende duas vezes. Pois, o pouco que sei pode ser muito para o outro
 
-More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer. | 🇧🇷 Mais de 10 anos trabalhando com Infraestrutura de TI. Sou Bacharel em Ciência da Computação. Atualmente, tô estudando para trabalhar com Engenharia de Dados
+More than ten years of expertise in Infrastructure IT. Bachelor's Computer Science. Nowadays, I keep learning new skills in Data Engineer. | 🇧🇷 Mais de 10 anos trabalhando com esse negócio de Infraestrutura de TI. Sou Bacharel em Ciência da Computação (sim, 5 anos de graduação. vivo para contar). Atualmente, tô estudando para trabalhar com Engenharia de Dados, porque a gente não pode ficar parado
 
 💬 Ask me about Linux, IT operations, and open source solutions. | 🇧🇷 Pode chegar mais.. pergunte sobre Linux, Ops de operações e soluções open sources
 
