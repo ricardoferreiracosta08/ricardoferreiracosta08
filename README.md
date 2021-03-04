@@ -19,23 +19,6 @@ More than ten years of expertise in Infrastructure IT. Bachelor's Computer Scien
 - Other Channels:
   - Udemy: [udemy.com/ricardo-ferreira-costa](https://www.udemy.com/user/ricardo-ferreira-costa-2)
 
-## Hard Skills
-
-- Linux
-- Containers
-- Network
-- Git
-- Data-driven
-
-## Soft Skills
-
-- Problem-solving 
-- Analytical skills
-- Effective communication
-- Negotiation
-- Decision-Making
-- Teamwork
-
 ## My Projects
 
 You can find my ...
