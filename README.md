@@ -38,9 +38,7 @@ More than ten years of expertise in Infrastructure IT. Bachelor's Computer Scien
 
 ## My Projects
 
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
-am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
+You can find my ...
 
 ## Github Stats
 
